@@ -2,8 +2,8 @@ fastapi==0.104.1
 uvicorn[standard]==0.24.0
 python-multipart==0.0.6
 Pillow==10.1.0
-torch==2.1.1
-torchvision==0.16.1
+torch==2.1.0
+torchvision==0.16.0
 diffusers==0.21.4
 transformers==4.35.2
 accelerate==0.24.1
@@ -18,5 +18,4 @@ huggingface-hub==0.17.3
 einops==0.7.0
 requests==2.31.0
 xformers==0.0.22.post7
-controlnet-aux==0.0.7
 git+https://github.com/tencent-ailab/IP-Adapter.git
