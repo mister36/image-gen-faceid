@@ -15,4 +15,8 @@ safetensors==0.4.0
 pydantic==2.5.0
 aiofiles==23.2.1
 huggingface-hub==0.17.3
+einops==0.7.0
+requests==2.31.0
+xformers==0.0.22.post7
+controlnet-aux==0.0.7
 git+https://github.com/tencent-ailab/IP-Adapter.git
